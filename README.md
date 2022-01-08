@@ -4,6 +4,8 @@ As per my research on the internet for a few hours I got tons of parallax scroll
 
 you can checkout my blog for better understanding.
 
+https://medium.com/@parth.panchal892002/parallax-background-in-flutter-33bdc0a0afbf
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
