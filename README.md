@@ -1,6 +1,8 @@
 # parallax
 
-A new Flutter project.
+As per my research on the internet for a few hours I got tons of parallax scrolling tutorials but not a single one for background parallax in flutter. so, I tried to do it on my own. 
+
+you can checkout my blog for better understanding.
 
 ## Getting Started
 
